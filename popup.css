@@ -1,0 +1,40 @@
+
+.button {
+	display: inline;
+	float: right;
+}
+
+.list_web {
+	list-style: none;
+	text-align: left;
+	padding-left: 0px;
+}
+
+.title {
+	display: inline;
+
+	width: auto;
+	height: auto;
+}
+
+#list {
+	position: relative;
+	height: 150px;
+	overflow: scroll;
+
+	overflow-x: hidden;
+}
+
+#open_tabs {
+	width: 15px;
+	height: 15px;
+}
+
+#top_banner {
+	position: relative;
+	display: inline-block;
+
+	align-items: baseline;
+
+	width: 150px;
+}

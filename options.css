@@ -1,0 +1,36 @@
+
+.web_name {
+	display: inline;
+	padding: 10px;
+}
+
+#new_site {
+	position: relative;
+	display: flex;
+}
+
+#b_add {
+	height: 25px;
+	width: auto;
+
+	margin-top: 50px;
+}
+
+#b_remove {
+	height: 5px;
+	width: 5px;
+
+	textContent: 'del';
+}
+
+ul {
+	list-style: none;
+}
+
+button {
+	margin-right: 10px;
+}
+
+li {
+	margin-top: 5px;
+}
